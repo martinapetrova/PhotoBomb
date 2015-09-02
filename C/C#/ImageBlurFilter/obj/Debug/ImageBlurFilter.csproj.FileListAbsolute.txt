@@ -1,0 +1,26 @@
+C:\Users\user\Desktop\C#\ImageBlurFilters\bin\Debug\ImageBlurFilter.exe
+C:\Users\user\Desktop\C#\ImageBlurFilters\bin\Debug\ImageBlurFilter.pdb
+C:\Users\user\Desktop\C#\ImageBlurFilters\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\C#\ImageBlurFilters\obj\Debug\ImageBlurFilter.MainForm.resources
+C:\Users\user\Desktop\C#\ImageBlurFilters\obj\Debug\ImageBlurFilter.Properties.Resources.resources
+C:\Users\user\Desktop\C#\ImageBlurFilters\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Desktop\C#\ImageBlurFilters\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\user\Desktop\C#\ImageBlurFilters\obj\Debug\ImageBlurFilter.exe
+C:\Users\user\Desktop\C#\ImageBlurFilters\obj\Debug\ImageBlurFilter.pdb
+C:\Users\user\Desktop\ZA T U\Diplomna\C#\ImageBlurFilters\obj\Debug\ImageBlurFilter.exe
+C:\Users\user\Desktop\ZA T U\Diplomna\C#\ImageBlurFilters\obj\Debug\ImageBlurFilter.pdb
+C:\Users\user\Desktop\ZA T U\Diplomna\C#\ImageBlurFilters\bin\Debug\ImageBlurFilter.exe
+C:\Users\user\Desktop\ZA T U\Diplomna\C#\ImageBlurFilters\bin\Debug\ImageBlurFilter.pdb
+C:\Users\user\Desktop\ZA T U\Diplomna\C#\ImageBlurFilters\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\ZA T U\Diplomna\C#\ImageBlurFilters\obj\Debug\ImageBlurFilter.MainForm.resources
+C:\Users\user\Desktop\ZA T U\Diplomna\C#\ImageBlurFilters\obj\Debug\ImageBlurFilter.Properties.Resources.resources
+C:\Users\user\Desktop\ZA T U\Diplomna\C#\ImageBlurFilters\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Desktop\ZA T U\Diplomna\C#\ImageBlurFilters\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\MARTY\Desktop\Мартина Петрова 108219\C\C#\ImageBlurFilter\obj\Debug\ImageBlurFilter.exe
+C:\Users\MARTY\Desktop\Мартина Петрова 108219\C\C#\ImageBlurFilter\obj\Debug\ImageBlurFilter.pdb
+C:\Users\MARTY\Desktop\Мартина Петрова 108219\C\C#\ImageBlurFilter\bin\Debug\ImageBlurFilter.exe
+C:\Users\MARTY\Desktop\Мартина Петрова 108219\C\C#\ImageBlurFilter\bin\Debug\ImageBlurFilter.pdb
+C:\Users\MARTY\Desktop\Мартина Петрова 108219\C\C#\ImageBlurFilter\obj\Debug\ImageBlurFilter.csprojResolveAssemblyReference.cache
+C:\Users\MARTY\Desktop\Мартина Петрова 108219\C\C#\ImageBlurFilter\obj\Debug\ImageBlurFilter.MainForm.resources
+C:\Users\MARTY\Desktop\Мартина Петрова 108219\C\C#\ImageBlurFilter\obj\Debug\ImageBlurFilter.Properties.Resources.resources
+C:\Users\MARTY\Desktop\Мартина Петрова 108219\C\C#\ImageBlurFilter\obj\Debug\ImageBlurFilter.csproj.GenerateResource.Cache
